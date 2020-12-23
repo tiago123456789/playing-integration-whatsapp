@@ -1,0 +1,14 @@
+{
+  "name": "playing-intgrantion-whatsapp-api",
+  "version": "1.0.0",
+  "description": "playing integrations whatsapp api",
+  "main": "index.js",
+  "author": "Tiago Rosa da costa",
+  "license": "MIT",
+  "dependencies": {
+    "@zenvia/sdk": "^1.4.0",
+    "firebase": "^8.2.1",
+    "genius-lyrics": "^4.1.4",
+    "twilio": "^3.54.1"
+  }
+}
